@@ -1,0 +1,100 @@
+@charset "UTF-8";
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 1.5em;
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
+  margin: 0;
+}
+.fb_reset{
+    display: none;
+    display: none;
+    display: none;
+    background: none;
+    border: 0;
+    border-spacing: 0;
+    color: #000;
+    cursor: auto;
+    direction: ltr;
+    font-family: "lucida grande", tahoma, verdana, arial, "hiragino kaku gothic pro",meiryo,"ms pgothic",sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-shadow: none;
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    word-spacing: normal;
+}
+script {
+    display: none;
+}
+
+footer{
+    padding-top: 30px;
+    background-color: #42b9d0;
+    color: #fff;
+    display: block;
+}
+#contents {
+    padding-top: 35px;
+    padding-bottom: 70px;
+}
+#sub_cover {
+    padding: 40px 0;
+    background-image: url(../images/news/sub_cover.jpg);
+    background-size: cover;
+}
+#sub_cover {
+    padding: 80px 0;
+}
+#sub_cover h2 {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-size: 3.2rem;
+    font-weight: bold;
+    margin: 0;
+    letter-spacing: 0.2rem;
+}
+#contents #main h2 {
+    font-size: 20px;
+    font-size: 2rem;
+    padding-bottom: 20px;
+}
+#contents #main h2 {
+    color: #42b9d0;
+    border-bottom: 3px solid #42b9d0;
+    font-size: 15px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+#contents #sidebar .pc_sidemenu h3 {
+    color: #42b9d0;
+    font-size: 14px;
+    font-size: 1.4rem;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+    background-color: #f3f9fb;
+    padding: 15px;
+    margin-bottom: 0px;
+}
+#contents #main .news_li {
+    font-size: 15px;
+    font-size: 1.5rem;
+}
